@@ -141,13 +141,13 @@ DEFAULT_RATINGS = {
 }
 
 AGE_K_FACTOR_MODIFIERS = {
-    MASTER_1: 0.9585,
-    MASTER_2: 0.9560,
-    MASTER_3: 0.9445,
-    MASTER_4: 0.9385,
-    MASTER_5: 0.9335,
-    MASTER_6: 0.9185,
-    MASTER_7: 0.9015,
+    MASTER_1: 0.8828,
+    MASTER_2: 0.8760,
+    MASTER_3: 0.8455,
+    MASTER_4: 0.8300,
+    MASTER_5: 0.8137,
+    MASTER_6: 0.7812,
+    MASTER_7: 0.7434,
 }
 
 # the amount of "ghost rating points" to add to the rating of an athlete in the open class,
